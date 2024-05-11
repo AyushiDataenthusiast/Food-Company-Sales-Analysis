@@ -2,6 +2,7 @@ Hello hope u are doing great!
 Here is my project Food Sales Data Analysis, in this project i have used SQL.
 I hope you liked my presentation!
 In this project i executed these steps to take out insights from the data
+
 -Data Cleaning using SQL: Use SQL queries to clean and prepare your data, ensuring its accuracy, consistency, and completeness. This likely involved tasks such as removing duplicates, handling missing values, standardizing formats, and correcting errors.
 -Data Analysis in MS SQL Application using SQL Queries: Leveraging the power of SQL queries within the MS SQL application, conducted the data analysis. This involved querying the data to extract valuable insights, identify patterns, trends, and anomalies, and derive meaningful conclusions to inform decision-making.
 -Data Integration from Multiple Tables:  linked the data from two or more tables, possibly using JOIN operations, to consolidate information from disparate sources. This enabled me to perform more comprehensive analyses by leveraging data across different dimensions or entities.
